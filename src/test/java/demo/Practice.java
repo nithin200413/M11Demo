@@ -7,5 +7,6 @@ public class Practice {
 	public void m1()
 	{
 		System.out.println("Hi GitHub");
+		System.out.println("Hello");
 	}
 }
